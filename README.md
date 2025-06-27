@@ -10,7 +10,7 @@
 <p align="center">
 <a href="https://github.com/MEHAJIBSHA"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
 <p align="center">
-<a href="https://github.comibrahimadams254/BWM-XMD-QUANTUM"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ibrahimadams254/BWM-XMD-QUANTUM"><img title="Author" src="https://img.shields.io/badge/Author-MrDevils-orange.svg?style=for-the-badge&logo=github"></a>
 </p>
 <!-- Glowing Header -->
 <p align="center">
